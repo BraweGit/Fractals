@@ -1,0 +1,22 @@
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.exe.config
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.exe
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.pdb
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.csprojResolveAssemblyReference.cache
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.Properties.Resources.resources
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.csproj.GenerateResource.Cache
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.exe
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.pdb
+e:\onedrive\documents\visual studio 2015\Projects\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.MainForm.resources
+C:\Users\Honza\Desktop\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.exe.config
+C:\Users\Honza\Desktop\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.exe
+C:\Users\Honza\Desktop\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.pdb
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.exe.config
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.exe
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\bin\Debug\NAVY_Fractals.pdb
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.MainForm.resources
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.Properties.Resources.resources
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.csproj.GenerateResource.Cache
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.exe
+C:\Users\Honza\Desktop\Git Files\git\NAVY\NAVY_Fractals\NAVY_Fractals\obj\Debug\NAVY_Fractals.pdb
